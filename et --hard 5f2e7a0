@@ -1,0 +1,64 @@
+[33md8bb52d[m[33m ([m[1;36mHEAD -> [m[1;32mRel1.1.0_post_cleanup[m[33m, [m[1;31morigin/Rel1.1.0_post_cleanup[m[33m)[m HEAD@{0}: reset: moving to d8bb52d
+[33md8bb52d[m[33m ([m[1;36mHEAD -> [m[1;32mRel1.1.0_post_cleanup[m[33m, [m[1;31morigin/Rel1.1.0_post_cleanup[m[33m)[m HEAD@{1}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33m5f2e7a0[m HEAD@{2}: commit: removed unnecessary files and fixed search bar for admin
+[33m30828a7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mdev[m[33m)[m HEAD@{3}: checkout: moving from dev to Rel1.1.0_post_cleanup
+[33m30828a7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mdev[m[33m)[m HEAD@{4}: checkout: moving from main to dev
+[33m30828a7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mdev[m[33m)[m HEAD@{5}: checkout: moving from dev to main
+[33m30828a7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mdev[m[33m)[m HEAD@{6}: merge main: Fast-forward
+[33m16a3c1a[m HEAD@{7}: checkout: moving from main to dev
+[33m30828a7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mdev[m[33m)[m HEAD@{8}: commit: changed version from 1.0.0 to 1.1.0
+[33m16a3c1a[m HEAD@{9}: checkout: moving from dev to main
+[33m16a3c1a[m HEAD@{10}: checkout: moving from main to dev
+[33m16a3c1a[m HEAD@{11}: merge dev: Fast-forward
+[33me4af9a9[m[33m ([m[1;33mtag: v1.0.0[m[33m, [m[1;31morigin/mfa_removed[m[33m, [m[1;32mmfa_removed[m[33m)[m HEAD@{12}: checkout: moving from dev to main
+[33m16a3c1a[m HEAD@{13}: commit: handled null first_name case in assign officers
+[33m88e9794[m HEAD@{14}: commit: fixed on loader problem on tab2, made some cosmetic changes on admin dashboard & handled case for no form selection
+[33m9777e50[m HEAD@{15}: commit: added application id in status bar
+[33m1933ad4[m[33m ([m[1;31morigin/admin_view_cleaned[m[33m, [m[1;32madmin_view_cleaned[m[33m)[m HEAD@{16}: merge admin_view_cleaned: Fast-forward
+[33me4af9a9[m[33m ([m[1;33mtag: v1.0.0[m[33m, [m[1;31morigin/mfa_removed[m[33m, [m[1;32mmfa_removed[m[33m)[m HEAD@{17}: checkout: moving from admin_view_cleaned to dev
+[33m1933ad4[m[33m ([m[1;31morigin/admin_view_cleaned[m[33m, [m[1;32madmin_view_cleaned[m[33m)[m HEAD@{18}: commit: added try catch in viewCertificate
+[33m1486148[m HEAD@{19}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33mdb4f75f[m HEAD@{20}: commit: addeds description in details popup
+[33m2087bb0[m HEAD@{21}: commit: fixed search bar on both admin side and officer side
+[33md13552e[m HEAD@{22}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33mc26538e[m HEAD@{23}: reset: moving to HEAD
+[33mc26538e[m HEAD@{24}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33m729e21b[m HEAD@{25}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33mf8e1c9d[m HEAD@{26}: reset: moving to HEAD
+[33mf8e1c9d[m HEAD@{27}: commit: fixed first time assign officer issue
+[33mf45d6c6[m HEAD@{28}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33m022ea55[m HEAD@{29}: commit: update button on admin assign fixed
+[33m1bc5812[m HEAD@{30}: commit: No applications found for admin changed
+[33m0d572ba[m HEAD@{31}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33m1923aae[m HEAD@{32}: commit: fixed bug on view
+[33mcd9ac41[m HEAD@{33}: commit: added user_id in app_records join admin_records, fixed navigation issue on logout
+[33mcf863c5[m HEAD@{34}: commit: added loader texts and made cosmetic changes on super admin view
+[33m1e57d36[m HEAD@{35}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33mcae435d[m HEAD@{36}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33maed2643[m HEAD@{37}: commit: added no application check for officer, No records found image, changed in admin_view
+[33m6a5ba09[m HEAD@{38}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33m764dc7e[m[33m ([m[1;31morigin/assignOfficer[m[33m, [m[1;32massignOfficer[m[33m)[m HEAD@{39}: reset: moving to HEAD
+[33m764dc7e[m[33m ([m[1;31morigin/assignOfficer[m[33m, [m[1;32massignOfficer[m[33m)[m HEAD@{40}: checkout: moving from assignOfficer_1.0 to admin_view_cleaned
+[33m10f7423[m[33m ([m[1;31morigin/assignOfficer_1.0[m[33m, [m[1;32massignOfficer_1.0[m[33m)[m HEAD@{41}: checkout: moving from admin_view_cleaned to assignOfficer_1.0
+[33m764dc7e[m[33m ([m[1;31morigin/assignOfficer[m[33m, [m[1;32massignOfficer[m[33m)[m HEAD@{42}: checkout: moving from assignOfficer_1.0 to admin_view_cleaned
+[33m10f7423[m[33m ([m[1;31morigin/assignOfficer_1.0[m[33m, [m[1;32massignOfficer_1.0[m[33m)[m HEAD@{43}: checkout: moving from assignOfficer to assignOfficer_1.0
+[33m764dc7e[m[33m ([m[1;31morigin/assignOfficer[m[33m, [m[1;32massignOfficer[m[33m)[m HEAD@{44}: checkout: moving from assignOfficer_1.0 to assignOfficer
+[33m10f7423[m[33m ([m[1;31morigin/assignOfficer_1.0[m[33m, [m[1;32massignOfficer_1.0[m[33m)[m HEAD@{45}: checkout: moving from admin_view_cleaned to assignOfficer_1.0
+[33m764dc7e[m[33m ([m[1;31morigin/assignOfficer[m[33m, [m[1;32massignOfficer[m[33m)[m HEAD@{46}: merge assignOfficer: Fast-forward
+[33m8de98f2[m HEAD@{47}: checkout: moving from assignOfficer to admin_view_cleaned
+[33m764dc7e[m[33m ([m[1;31morigin/assignOfficer[m[33m, [m[1;32massignOfficer[m[33m)[m HEAD@{48}: checkout: moving from assignOfficer_1.0 to assignOfficer
+[33m10f7423[m[33m ([m[1;31morigin/assignOfficer_1.0[m[33m, [m[1;32massignOfficer_1.0[m[33m)[m HEAD@{49}: checkout: moving from assignOfficer to assignOfficer_1.0
+[33m764dc7e[m[33m ([m[1;31morigin/assignOfficer[m[33m, [m[1;32massignOfficer[m[33m)[m HEAD@{50}: commit: commit for final release
+[33m10f7423[m[33m ([m[1;31morigin/assignOfficer_1.0[m[33m, [m[1;32massignOfficer_1.0[m[33m)[m HEAD@{51}: checkout: moving from assignOfficer_1.0 to assignOfficer
+[33m10f7423[m[33m ([m[1;31morigin/assignOfficer_1.0[m[33m, [m[1;32massignOfficer_1.0[m[33m)[m HEAD@{52}: checkout: moving from assignOfficer to assignOfficer_1.0
+[33m10f7423[m[33m ([m[1;31morigin/assignOfficer_1.0[m[33m, [m[1;32massignOfficer_1.0[m[33m)[m HEAD@{53}: checkout: moving from last_login to assignOfficer
+[33m421565d[m[33m ([m[1;31morigin/last_login[m[33m, [m[1;32mlast_login[m[33m)[m HEAD@{54}: checkout: moving from assignOfficer to last_login
+[33m10f7423[m[33m ([m[1;31morigin/assignOfficer_1.0[m[33m, [m[1;32massignOfficer_1.0[m[33m)[m HEAD@{55}: checkout: moving from last_login to assignOfficer
+[33m421565d[m[33m ([m[1;31morigin/last_login[m[33m, [m[1;32mlast_login[m[33m)[m HEAD@{56}: checkout: moving from assignOfficer to last_login
+[33m10f7423[m[33m ([m[1;31morigin/assignOfficer_1.0[m[33m, [m[1;32massignOfficer_1.0[m[33m)[m HEAD@{57}: checkout: moving from admin_view_cleaned to assignOfficer
+[33m8de98f2[m HEAD@{58}: checkout: moving from assignOfficer to admin_view_cleaned
+[33m10f7423[m[33m ([m[1;31morigin/assignOfficer_1.0[m[33m, [m[1;32massignOfficer_1.0[m[33m)[m HEAD@{59}: checkout: moving from admin_view_cleaned to assignOfficer
+[33m8de98f2[m HEAD@{60}: checkout: moving from last_login to admin_view_cleaned
+[33m421565d[m[33m ([m[1;31morigin/last_login[m[33m, [m[1;32mlast_login[m[33m)[m HEAD@{61}: checkout: moving from assignOfficer to last_login
+[33m10f7423[m[33m ([m[1;31morigin/assignOfficer_1.0[m[33m, [m[1;32massignOfficer_1.0[m[33m)[m HEAD@{62}: commit: fixed bugs and fixed last_login in admin_records
+[33mccf5c5b[m HEAD@{63}: commit: added new tab for admin, status mech
